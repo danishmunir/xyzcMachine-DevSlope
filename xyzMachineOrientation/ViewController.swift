@@ -27,6 +27,7 @@ class ViewController: UIViewController {
     {
         guard let data = data else {
             return
+            
         }
         print(data)
         
